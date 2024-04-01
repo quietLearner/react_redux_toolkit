@@ -79,3 +79,10 @@
   
 🚩🚩🚩
 - 🔗 [Chapter 8 - Blog Project with full RTK Query Refactor](https://github.com/gitdagray/react_redux_toolkit/tree/main/08_lesson)
+
+
+
+
+Gitignore not working https://stackoverflow.com/questions/25436312/gitignore-not-working
+git rm -rf --cached .
+git add .

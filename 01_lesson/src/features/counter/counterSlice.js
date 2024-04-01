@@ -1,5 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 
+//duck pattern
 const initialState = {
   count: 0,
 };

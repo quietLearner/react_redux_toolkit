@@ -86,3 +86,6 @@
 Gitignore not working https://stackoverflow.com/questions/25436312/gitignore-not-working
 git rm -rf --cached .
 git add .
+
+
+npm i react-router-dom
